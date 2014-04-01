@@ -1,3 +1,6 @@
+/*dit is commentaar
+ * bla
+ */
 package com.example.android_geeltjes;
 
 import android.app.Activity;
